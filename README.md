@@ -37,7 +37,7 @@ Our project is developed based on the following repositories:
 * [PPT](https://github.com/thu-coai/PPT): Pre-trained Prompt Tuning for Few-shot Learning
 
 ## Citation
-If you found this work useful, please consider  citing our paper as followed:
+If you found this work useful, please consider  citing our paper as follows:
 ```
 @article{pan2023self,
   title={Self-supervised Meta-Prompt Learning with Meta-Gradient Regularization for Few-shot Generalization},
